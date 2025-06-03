@@ -1,6 +1,6 @@
 # Subway Crowd Counting
 
-Real-time crowd counting using computer vision models.
+Real-time crowd counting using deep laerning and NVidia Jetson computer. This was a project in 2019.
 
 ## Demo
 
