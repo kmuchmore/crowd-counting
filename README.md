@@ -4,7 +4,7 @@ Real-time crowd counting using computer vision models.
 
 ## Demo
 
-![Demo Animation](Subway_Crowd_Counting.gif)
+![Demo Animation](subway.gif)
 
 ## How it Works
 
