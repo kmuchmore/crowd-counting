@@ -8,4 +8,4 @@ Real-time crowd counting using deep laerning and NVidia Jetson computer. This wa
 
 ## How it Works
 
-(Write a few lines about how the model was trained, what framework you used, etc.)
+
